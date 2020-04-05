@@ -348,3 +348,8 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+## End of VS Git Ignore File
+
+# Ignore all Node Module Files
+node_modules/
