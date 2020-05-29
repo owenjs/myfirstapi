@@ -353,3 +353,9 @@ MigrationBackup/
 
 # Ignore all Node Module Files
 node_modules/
+
+# Include api bin
+!api/bin
+
+# Ignore all .env Files
+.env
